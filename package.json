@@ -1,0 +1,17 @@
+{
+  "name": "canvas-api",
+  "version": "1.0.0",
+  "description": "A set of canvas-api projects",
+  "main": "main.js",
+  "repository": "git@github.com:martline1/canvas-api.git",
+  "author": "martline1 <yael.alcalla@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^16.0.6",
+    "electron-reloader": "^1.2.1"
+  }
+}
